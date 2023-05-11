@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="yPbKb9UZ7}{l{Qi=PLR8" x="268" y="-29"><field name="NAME">Button.A</field><comment pinned="false" h="178.888916015625" w="926.6666259765625">https://github.com/jegyed50/jegyed50-bbc-microbit-study365-blocks-03-04-a
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="yPbKb9UZ7}{l{Qi=PLR8" x="268" y="-29"><field name="NAME">Button.A</field><comment pinned="false" h="178" w="926">https://github.com/jegyed50/jegyed50-bbc-microbit-study365-blocks-03-04-a
 https://github.com/jegyed50/jegyed50-bbc-microbit-study365-blocks-03-04-a/blob/master/03-04-pomodoro-timeline.jpg
 JEGYED50-BBC-MICROBIT-STUDY365-BLOCKS-03-04-A
 30 perces analóg óra, fél másoperces időtartamok, csak LED és pause</comment><statement name="HANDLER"><block type="device_show_leds" id="L89MTJiB2oleE)1Dqb|K"><field name="LEDS">`
