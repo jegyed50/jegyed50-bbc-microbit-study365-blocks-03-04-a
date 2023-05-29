@@ -43,4 +43,79 @@ JEGYED50-BBC-MICROBIT-STUDY365-BLOCKS-03-04-A
         . . # . . 
         . . # . . 
         . . # . .
-        `</field><next><block type="device_pause" id="iuDl;y7PRS;Jvgn_~9IO"><value name="pause"><shadow type="timePicker" id="k=tY4Q*oC~Z8W8f@nDE2"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="]M:Y~?G^~UwG5)p|g)!q" x="0" y="0"></block></xml>
+        `</field><next><block type="device_pause" id="iuDl;y7PRS;Jvgn_~9IO"><value name="pause"><shadow type="timePicker" id="k=tY4Q*oC~Z8W8f@nDE2"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="]M:Y~?G^~UwG5)p|g)!q" x="0" y="0"></block><block type="device_button_event" id="QouM8WxW!iB3!p~_D{ro" x="672" y="-10"><field name="NAME">Button.B</field><comment pinned="false" h="80" w="160">https://github.com/jegyed50/jegyed50-bbc-microbit-study365-blocks-03-04-a
+https://github.com/jegyed50/jegyed50-bbc-microbit-study365-blocks-03-04-a/blob/master/03-04-pomodoro-timeline.jpg
+JEGYED50-BBC-MICROBIT-STUDY365-BLOCKS-03-04-A
+30 perces analóg óra, fél másoperces időtartamok, csak LED és pause</comment><statement name="HANDLER"><block type="device_show_leds" id="{,J,*[%pBX,y1/5iB1CQ"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="|(DP{_b7_h^:U=MIA-aC"><value name="pause"><shadow type="timePicker" id="?!X4K$ffgm$lKL4YQ3.|"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="=.+F+_sKTYqpjkC[#7BB"><field name="LEDS">`
+        . . . # . 
+        . . . # . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="fvMXaK@{q/cb~*/:D{,4"><value name="pause"><shadow type="timePicker" id="eHCir4lNk8BC-!du-|0m"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="pj|(OTteR2rbh8|A$c~S"><field name="LEDS">`
+        . . . . . 
+        . . . # # 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="@u)BrmA!Is-6PX=kn[m="><value name="pause"><shadow type="timePicker" id="+XY2zGBa]M15b-.}b/h6"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="uR0XpCmY:eP}0BapwA:,"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # # # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="WjQ9Cq{tP9GXs`J;bLEZ"><value name="pause"><shadow type="timePicker" id="K-vqM_V6F]`fsYrCZB0b"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="[S`m^cD2s_CmzvE8fQF9"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . # # 
+        . . . . .
+        `</field><next><block type="device_pause" id="wVyNIsCrKLq@QJKS!*/W"><value name="pause"><shadow type="timePicker" id="dPx^ZggRF!gDX!96l]b1"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="^ZL|Vl?Ua`PY75+/l-.`"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . # . 
+        . . . # .
+        `</field><next><block type="device_pause" id="~__*z,-BH@?DruD!UgH}"><value name="pause"><shadow type="timePicker" id="-BFL,N214t:Y(5sDE3N|"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="egq$+i-L#(ucLASkU{j{"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="Ld[W%.Oaylof9kr)kuhu"><value name="pause"><shadow type="timePicker" id="i%ID$+*qHxufAq1rJ.H)"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="0:kgtf,=O}n`JA3o~$%Q"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . # . . . 
+        . # . . .
+        `</field><next><block type="device_pause" id=",+ZJuW6|tWbGRdaqny,%"><value name="pause"><shadow type="timePicker" id=",V:jRQbv)|!T+yQW1v]h"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id=",^Zx@-IeP[M]9i0D1#Vb"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        # # . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="l]jy9/%G/qEoueo1L0SD"><value name="pause"><shadow type="timePicker" id="CrBLJc64|2iQ(S.+tj#V"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="IOCVIkMRobvm@Z(?q:L{"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="+sy!=t97vi9nFrSxQ+YI"><value name="pause"><shadow type="timePicker" id=";%akeK[(j_gCvJ[yQ;K+"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="/P_VdJ^ISOudZc9]P-,F"><field name="LEDS">`
+        . . . . . 
+        # # . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="%^KM5/(}+Th*ePs(~$M-"><value name="pause"><shadow type="timePicker" id="i!4vv:tS`#VI(U$O3Gy^"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="YcEGFvTE+SKn^;W01tAJ"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="$n:y,uI77d4{yx-~(y|x"><value name="pause"><shadow type="timePicker" id=".R-QF6Vw#2lRk-kF,dC{"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
